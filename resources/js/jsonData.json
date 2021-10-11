@@ -1,0 +1,8 @@
+{
+    "options":{
+        "size":[ "S","M","L","XL","SL" ]
+    },
+    "colors":{
+        "clr":[ "Black","Red","blue","BlueViolet","Brown","DarkGreen","HotPink"]
+    }
+}
